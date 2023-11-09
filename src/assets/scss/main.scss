@@ -1,0 +1,194 @@
+@import "./variable.scss";
+@import "./global.scss";
+@import "./toast.scss";
+@import "./steps.scss";
+
+//font family start
+.poppins {
+  font-family: $poppins;
+}
+
+.poppins-bold {
+  font-family: $poppins-bold;
+}
+
+.poppins-500 {
+  font-family: $poppins-500;
+}
+
+.poppins-600 {
+  font-family: $poppins-600;
+}
+
+.poppins-700 {
+  font-family: $poppins-700;
+}
+//font family end
+
+// color
+.dark-blue {
+  color: $dark-blue;
+}
+
+//font color
+.font-blue {
+  color: $font-dark-blue !important;
+}
+.font-black {
+  color: $font-black !important;
+}
+.font-white {
+  color: $font-white !important;
+}
+
+.font-light-blue {
+  color: $font-blue !important;
+}
+
+.font-light-grey {
+  color: $font-light-grey !important;
+}
+
+.font-light-blue-2 {
+  color: $font-light-blue-2 !important;
+}
+
+//bg color
+.bg-color-light {
+  background-color: $bg-color-light !important;
+}
+
+.bg-color-white {
+  background-color: $bg-color-white !important;
+}
+
+//font-size
+.font-8 {
+  font-size: $font-8;
+}
+
+.font-10 {
+  font-size: $font-10;
+}
+
+.font-12 {
+  font-size: $font-12;
+}
+
+.font-14 {
+  font-size: $font-14;
+}
+
+.font-16 {
+  font-size: $font-16;
+}
+
+.font-18 {
+  font-size: $font-18;
+}
+
+.font-19 {
+  font-size: $font-19;
+}
+
+.font-20 {
+  font-size: $font-20;
+}
+
+.font-22 {
+  font-size: $font-22;
+}
+
+.font-24 {
+  font-size: $font-24;
+}
+
+.font-26 {
+  font-size: $font-26;
+}
+
+.font-28 {
+  font-size: $font-28;
+}
+
+.font-30 {
+  font-size: $font-30;
+}
+
+.font-32 {
+  font-size: $font-32;
+}
+
+.font-34 {
+  font-size: $font-34;
+}
+
+.font-36 {
+  font-size: $font-36;
+}
+
+.font-38 {
+  font-size: $font-38;
+}
+
+.font-40 {
+  font-size: $font-40;
+}
+
+.font-48 {
+  font-size: $font-48;
+}
+
+.font-50 {
+  font-size: $font-50;
+}
+
+.font-52 {
+  font-size: $font-52;
+}
+
+.font-54 {
+  font-size: $font-54;
+}
+
+.font-56 {
+  font-size: $font-56;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.p-panel .p-panel-content:last-child {
+  border-radius: 10px;
+}
+
+.faq-panel {
+  .p-panel-header {
+    border-radius: 10px;
+    border: none;
+    background-color: #eef9fe;
+  }
+  .p-panel-content {
+    border: none;
+    background: #eef9fe;
+  }
+}
+
+//calendar css
+
+.calender-custom {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+//Table header
+
+.p-datatable .p-datatable-thead > tr > th {
+  background: $bg-color-input;
+}

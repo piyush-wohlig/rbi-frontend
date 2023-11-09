@@ -1,0 +1,129 @@
+@import "@/assets/scss/font.scss";
+
+//font
+$poppins: "Poppins";
+$poppins-bold: "Poppins-Bold";
+$poppins-400: "Poppins-400";
+$poppins-500: "Poppins-500";
+$poppins-600: "Poppins-600";
+$poppins-700: "Poppins-700";
+$poppins-italic-500: "Poppins-italic-500";
+
+// color Variables
+$dark-blue: #213468;
+$blue-500: #99b0ed;
+$red: #f44336;
+$red-500: #ff373d;
+$red-600: #ffdadb;
+$error-red: $red;
+$view-flot-blue: #7e95db;
+$green: green;
+$light-green: #e8ffe5;
+$dark-green: #128807;
+$grey: #2d3e50;
+$grey-200: #cbcbcb;
+$grey-300: #f4f4f4;
+$grey-500: #687182;
+$white: #fff;
+$light-blue: #048ed8;
+$dark-black: #1a1a1a;
+$light-grey: #706d6d;
+$grey-400: #cbd2e0;
+$yellow-700: #ffdf8b;
+$grey-600: #dee2e6;
+
+//font color
+$font-dark-blue: #213468;
+$font-black: #000000;
+$font-white: #ffffff;
+$font-grey: #979797;
+$font-grey-2: #e0e0e0;
+$font-light-grey: #787878;
+$font-light-grey-1: #f3f2f2;
+$grey-100: #eeeeee;
+
+$font-blue: #009da4;
+$font-light-blue-2: #2895e4;
+$font-light-red-2: #f06b6b;
+$font-normal-blue: blue;
+$font-plain-white: #e9ecef;
+$font-normal-blue-1: lightblue;
+$font-blue-400: #5571cf;
+
+//bg color
+$bg-color-white-1: #ecf0f1;
+$bg-color-white-2: #f6f6f6;
+$bg-color-white: #ffffff;
+$bg-color-light: #effdff;
+$bg-color-primary-1: #1ba1b1;
+$bg-color-primary-2: #e0f6f7;
+$bg-color-primary-3: #eef9fe;
+$bg-color-primary-4: #edf1ff;
+$bg-color-primary-5: #e0f0fd;
+$bg-color-primary-6: #ecf0fd;
+$bg-color-primary-7: #eff3ff;
+$bg-ruddy-blue: #69ffdb;
+$bg-light-orange: #ff9153;
+$bg-red: red;
+$bg-light-white: #f6feff;
+$bg-azure-white: #f7f9f9;
+$bg-tab-grey: #00000040;
+$toolbar-color: #2a80b9;
+$table-row-odd-color: rgb(250, 250, 250);
+$black: #000000;
+$bg-color-bk-blue: #003f59;
+$step-wizard-line-color: #999;
+$breadcrumb-separator: #ccc;
+$btn-dark-blue: #0d47a1;
+$card-scrollbar-thumb-hover: #555;
+$bg-yellow-color: #fbe38eb2;
+$blue-400: #4f7fdd;
+$blue-300: #ebf0ff;
+$bg-blue-500: #f3f7ff;
+$bg-blue-600: #c9d8ff;
+$notification-read: rgba(6, 175, 182, 0.19);
+
+// input bg
+$bg-color-input: #f7f9ff;
+$input-active-border: #cfdcff;
+$input-placeholder-color: #a29ca8;
+$input-bottom-border: #d9d9d9;
+$border-color: #2882b6;
+$border-color-2: #91b3ec;
+$light-grey-2: #a4a4a7;
+$primary-border: #9eb0e0;
+
+//font size variables
+$font-8: 0.5rem;
+$font-10: 0.625rem;
+$font-11: 0.6875rem;
+$font-12: 0.75rem;
+$font-13: 0.8125rem;
+$font-14: 0.875rem;
+$font-15: 0.9375rem;
+$font-16: 1rem;
+$font-17: 1.0625rem;
+$font-18: 1.125rem;
+$font-19: 1.1875rem;
+$font-20: 1.25rem;
+$font-22: 1.375rem;
+$font-24: 1.5rem;
+$font-25: 1.5625rem;
+$font-26: 1.625rem;
+$font-28: 1.75rem;
+$font-30: 1.875rem;
+$font-32: 2rem;
+$font-34: 1.125rem;
+$font-36: 2.25rem;
+$font-38: 2.375rem;
+$font-40: 2.5rem;
+$font-48: 3rem;
+$font-50: 3.125rem;
+$font-52: 3.25rem;
+$font-54: 3.375rem;
+$font-56: 3.5rem;
+$font-80: 5rem;
+$font-weight-600: 600;
+$font-weight-700: 700;
+
+$card-border: #f6f6f6;

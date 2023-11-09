@@ -1,0 +1,30 @@
+.p-toast {
+    opacity: 1;
+    width: auto;
+    
+    .p-toast-message {
+      border: none !important;
+  
+      .p-toast-message-content {
+        padding:20px ;
+        svg {
+          display: none;
+        }
+        .p-toast-message-text {
+          .p-toast-summary {
+            display: none;
+          }
+          .p-toast-detail {
+            margin: 0;
+            font-family: $poppins-bold;
+            font-size: $font-14;
+            font-weight: bold;
+          }
+        }
+        // Close button selector
+        div:nth-child(3) {
+          display: none;
+        }
+      }
+    }
+  }
